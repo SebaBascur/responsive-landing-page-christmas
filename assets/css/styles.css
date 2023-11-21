@@ -310,6 +310,7 @@ img{
 
 .share__description{
   margin-bottom: var(--mb-2);
+  text-align: justify;
 }
 
 .share__img{
